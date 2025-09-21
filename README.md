@@ -20,3 +20,5 @@ Run the game from the 'gameboard.java' file - it will open and run in a JavaSwin
 
 Made with support from teammates, but game built entirely by myself. Ideas and concepts for game design should be credited to the full team.
 Forgive the 4000 line file, and the hardcoded values. I was in a time crunch :) 
+
+If you are curious about the process I went through when building it, you can check the `Navigator.java` file - it contains notes I kept for myself and group members in case they were going to be working alongside me on the game build.
